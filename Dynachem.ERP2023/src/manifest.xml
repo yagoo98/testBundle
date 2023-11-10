@@ -1,0 +1,25 @@
+<manifest projecttype="SUITEAPP">
+  <publisherid>com.fnitech</publisherid>
+  <projectid>dynachemv202311</projectid>
+  <projectname>Dynachem</projectname>
+  <projectversion>1.0.0</projectversion>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="false">PERIODENDJOURNALENTRIES</feature>
+      <feature required="false">ASSEMBLIES</feature>
+      <feature required="false">ADVRECEIVING</feature>
+      <feature required="false">MULTILOCINVT</feature>
+      <feature required="false">INVENTORY</feature>
+      <feature required="false">CUSTOMTRANSACTIONS</feature>
+      <feature required="false">RECEIVABLES</feature>
+      <feature required="false">ACCOUNTING</feature>
+      <feature required="false">WORKORDERS</feature>
+      <feature required="false">PAYABLES</feature>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">CRM</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="false">SUBSIDIARIES</feature>
+    </features>
+  </dependencies>
+</manifest>

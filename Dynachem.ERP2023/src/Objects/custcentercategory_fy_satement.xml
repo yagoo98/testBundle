@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategory_fy_satement">
+  <center>BASIC</center>
+  <centertab>BASICCENTERREPORTS</centertab>
+  <label>丰益客製報表</label>
+  <links>
+    <link>
+      <linklabel>Statement</linklabel>
+      <linkobject>[scriptid=customscript_ffdy_ip06_sl_pdf.customdeploy_ffdy_ip06_sl_pdf]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

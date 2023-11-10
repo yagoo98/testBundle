@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_invadjreasonlist">
+  <description>憑證套表顯示</description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>庫存調整原因清單</name>
+  <customvalues>
+    <customvalue scriptid="val_39765_8837804_sb1_603">
+      <isinactive>F</isinactive>
+      <value>繳稅移倉</value>
+    </customvalue>
+    <customvalue scriptid="val_39766_8837804_sb1_973">
+      <isinactive>F</isinactive>
+      <value>倉庫盤點</value>
+    </customvalue>
+    <customvalue scriptid="val_39767_8837804_sb1_752">
+      <isinactive>F</isinactive>
+      <value>供應商贈樣</value>
+    </customvalue>
+    <customvalue scriptid="val_39768_8837804_sb1_168">
+      <isinactive>F</isinactive>
+      <value>工廠短缺</value>
+    </customvalue>
+    <customvalue scriptid="val_41336_8837804_sb1_490">
+      <isinactive>F</isinactive>
+      <value>其他</value>
+    </customvalue>
+  </customvalues>
+</customlist>

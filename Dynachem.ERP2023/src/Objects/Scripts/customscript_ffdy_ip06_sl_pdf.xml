@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_ffdy_ip06_sl_pdf">
+  <description>產生繁簡對帳單PDF</description>
+  <isinactive>F</isinactive>
+  <name>_ffdy_ip06_sl_pdf</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.soetek.dynachem/_ffdy_ip06_sl_pdf202311.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_ffdy_ip06_sl_pdf">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole></runasrole>
+      <status>RELEASED</status>
+      <title>_ffdy_ip06_sl_pdf</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

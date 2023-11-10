@@ -1,0 +1,10 @@
+<clientscript scriptid="customscript_ffdy_inventoryadjustment_cs">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>_ffdy_inventoryAdjustment_cs</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.fnitech.dynachemv202311/inventory_adjustment/_ffdy_iav202311_cs.js]</scriptfile>
+</clientscript>
